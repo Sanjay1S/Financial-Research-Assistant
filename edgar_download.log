@@ -1,0 +1,124 @@
+2024-12-29 21:44:28,813:INFO:Fetching filings for AAPL (Apple Inc.) with CIK: 0000320193
+2024-12-29 21:44:48,242:INFO:Fetching filings for AAPL (Apple Inc.) with CIK: 0000320193
+2024-12-29 21:44:49,031:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm
+2024-12-29 21:44:49,377:INFO:Extracted 32 chunks from filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm
+2024-12-29 21:44:49,377:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm:
+aapl-20240928 false 2024 FY 0000320193 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2024#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2024#MarketableSecuritiesNoncurrent http://fasb.org/us-gaap/2024...
+
+2024-12-29 21:44:49,820:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm
+2024-12-29 21:44:50,133:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm
+2024-12-29 21:44:50,133:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm:
+aapl-20240629 false 2024 Q3 0000320193 --09-28 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-g...
+
+2024-12-29 21:44:50,576:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm
+2024-12-29 21:44:50,769:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm
+2024-12-29 21:44:50,770:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm:
+aapl-20240330 false 2024 Q2 0000320193 --09-28 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-g...
+
+2024-12-29 21:44:51,201:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm
+2024-12-29 21:44:51,437:INFO:Extracted 10 chunks from filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm
+2024-12-29 21:44:51,437:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm:
+aapl-20231230 false 2024 Q1 0000320193 --09-28 P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-gaap/...
+
+2024-12-29 21:44:52,067:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm
+2024-12-29 21:44:52,445:INFO:Extracted 32 chunks from filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm
+2024-12-29 21:44:52,445:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm:
+aapl-20230930 false 2023 FY 0000320193 P1Y 67 P1Y 25 P1Y 7 1 http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-gaa...
+
+2024-12-29 21:44:52,886:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm
+2024-12-29 21:44:53,106:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm
+2024-12-29 21:44:53,106:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm:
+aapl-20230701 false 2023 Q3 0000320193 --09-30 P1Y 67 P1Y 26 P1Y 6 1 http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.or...
+
+2024-12-29 21:44:53,668:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm
+2024-12-29 21:44:53,941:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm
+2024-12-29 21:44:53,941:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm:
+aapl-20230401 false 2023 Q2 0000320193 --09-30 P1Y 65 P1Y 26 P1Y 7 2 0000320193 2022-09-25 2023-04-01 0000320193 us-gaap:CommonStockMember 2022-09-25 2023-04-01 0000320193 aapl:A1.375NotesDue2024Membe...
+
+2024-12-29 21:44:54,453:INFO:Successfully downloaded filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm
+2024-12-29 21:44:54,642:INFO:Extracted 10 chunks from filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm
+2024-12-29 21:44:54,642:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm:
+aapl-20221231 false 2023 Q1 0000320193 --09-30 P1Y 63 P1Y 27 P1Y 8 2 0000320193 2022-09-25 2022-12-31 0000320193 us-gaap:CommonStockMember 2022-09-25 2022-12-31 0000320193 aapl:A1.375NotesDue2024Membe...
+
+2024-12-29 21:44:54,846:INFO:Fetching filings for AMZN (Amazon.com, Inc.) with CIK: 0001067983
+2024-12-29 21:44:55,934:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-24-120241_brka-20240930.htm
+2024-12-29 21:44:57,588:INFO:Extracted 33 chunks from filings\0001067983\0001067983_0000950170-24-120241_brka-20240930.htm
+2024-12-29 21:44:57,588:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-24-120241_brka-20240930.htm:
+10-Q --12-31 Q3 false 0001067983 http://fasb.org/us-gaap/2024#USTreasuryBillSecuritiesMember http://fasb.org/us-gaap/2024#USTreasuryBillSecuritiesMember 0.0667 0.0667 http://fasb.org/us-gaap/2024#Acco...
+
+2024-12-29 21:44:58,139:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-24-090305_brka-20240630.htm
+2024-12-29 21:44:59,488:INFO:Extracted 32 chunks from filings\0001067983\0001067983_0000950170-24-090305_brka-20240630.htm
+2024-12-29 21:44:59,488:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-24-090305_brka-20240630.htm:
+10-Q Q2 0001067983 false --12-31 http://fasb.org/us-gaap/2024#USTreasuryBillSecuritiesMember http://fasb.org/us-gaap/2024#USTreasuryBillSecuritiesMember 0.0667 0.0667 http://fasb.org/us-gaap/2024#Acco...
+
+2024-12-29 21:44:59,991:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-24-053185_brka-20240331.htm
+2024-12-29 21:45:01,231:INFO:Extracted 28 chunks from filings\0001067983\0001067983_0000950170-24-053185_brka-20240331.htm
+2024-12-29 21:45:01,232:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-24-053185_brka-20240331.htm:
+10-Q Q1 false 0001067983 --12-31 http://fasb.org/us-gaap/2023#USTreasuryBillSecuritiesMember http://fasb.org/us-gaap/2023#USTreasuryBillSecuritiesMember 0.0667 0.0667 http://www.berkshirehathaway.com/...
+
+2024-12-29 21:45:01,865:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-24-019719_brka-20231231.htm
+2024-12-29 21:45:04,448:INFO:Extracted 81 chunks from filings\0001067983\0001067983_0000950170-24-019719_brka-20231231.htm
+2024-12-29 21:45:04,448:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-24-019719_brka-20231231.htm:
+10-K FY false 0.000667 0.000667 0001067983 0.000667 --12-31 http://fasb.org/us-gaap/2023#USTreasuryBillSecuritiesMember http://fasb.org/us-gaap/2023#USTreasuryBillSecuritiesMember 667 http://fasb.org/...
+
+2024-12-29 21:45:05,066:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-23-058993_brka-20230930.htm
+2024-12-29 21:45:06,772:INFO:Extracted 35 chunks from filings\0001067983\0001067983_0000950170-23-058993_brka-20230930.htm
+2024-12-29 21:45:06,772:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-23-058993_brka-20230930.htm:
+10-Q Q3 0001067983 --12-31 false 667 http://fasb.org/us-gaap/2023#AccountingStandardsUpdate201812Member http://fasb.org/us-gaap/2023#AccountingStandardsUpdate201812Member http://fasb.org/us-gaap/2023#...
+
+2024-12-29 21:45:07,312:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-23-038705_brka-20230630.htm
+2024-12-29 21:45:08,932:INFO:Extracted 34 chunks from filings\0001067983\0001067983_0000950170-23-038705_brka-20230630.htm
+2024-12-29 21:45:08,932:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-23-038705_brka-20230630.htm:
+10-Q false Q2 --12-31 0001067983 667 http://fasb.org/us-gaap/2023#AccountingStandardsUpdate201812Member http://fasb.org/us-gaap/2023#AccountingStandardsUpdate201812Member http://fasb.org/us-gaap/2023#...
+
+2024-12-29 21:45:09,669:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-23-018438_brka-20230331.htm
+2024-12-29 21:45:10,890:INFO:Extracted 29 chunks from filings\0001067983\0001067983_0000950170-23-018438_brka-20230331.htm
+2024-12-29 21:45:10,890:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-23-018438_brka-20230331.htm:
+10-Q http://fasb.org/us-gaap/2022#AccountingStandardsUpdate201812Member http://fasb.org/us-gaap/2022#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent http://fasb.org/us-gaap/2022#AccountsPayab...
+
+2024-12-29 21:45:11,495:INFO:Successfully downloaded filings\0001067983\0001067983_0000950170-23-004451_brka-20221231.htm
+2024-12-29 21:45:14,126:INFO:Extracted 78 chunks from filings\0001067983\0001067983_0000950170-23-004451_brka-20221231.htm
+2024-12-29 21:45:14,126:INFO:First chunk preview for filings\0001067983\0001067983_0000950170-23-004451_brka-20221231.htm:
+10-K http://fasb.org/us-gaap/2022#AccountsPayableAndAccruedLiabilitiesCurrentAndNoncurrent http://fasb.org/us-gaap/2022#OtherAssets http://fasb.org/us-gaap/2022#AccountsPayableAndAccruedLiabilitiesCur...
+
+2024-12-29 21:48:08,220:INFO:Fetching filings for AAPL (Apple Inc.) with CIK: 0000320193
+2024-12-29 21:48:09,009:INFO:Already downloaded filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm, skipping.
+2024-12-29 21:48:09,460:INFO:Extracted 32 chunks from filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm
+2024-12-29 21:48:09,460:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000123_aapl-20240928.htm:
+aapl-20240928 false 2024 FY 0000320193 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2024#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2024#MarketableSecuritiesNoncurrent http://fasb.org/us-gaap/2024...
+
+2024-12-29 21:48:09,661:INFO:Already downloaded filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm, skipping.
+2024-12-29 21:48:09,843:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm
+2024-12-29 21:48:09,843:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000081_aapl-20240629.htm:
+aapl-20240629 false 2024 Q3 0000320193 --09-28 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-g...
+
+2024-12-29 21:48:10,045:INFO:Already downloaded filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm, skipping.
+2024-12-29 21:48:10,278:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm
+2024-12-29 21:48:10,279:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000069_aapl-20240330.htm:
+aapl-20240330 false 2024 Q2 0000320193 --09-28 P1Y P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-g...
+
+2024-12-29 21:48:10,482:INFO:Already downloaded filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm, skipping.
+2024-12-29 21:48:10,676:INFO:Extracted 10 chunks from filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm
+2024-12-29 21:48:10,677:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-24-000006_aapl-20231230.htm:
+aapl-20231230 false 2024 Q1 0000320193 --09-28 P1Y P1Y P1Y http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-gaap/...
+
+2024-12-29 21:48:10,879:INFO:Already downloaded filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm, skipping.
+2024-12-29 21:48:11,228:INFO:Extracted 32 chunks from filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm
+2024-12-29 21:48:11,228:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000106_aapl-20230930.htm:
+aapl-20230930 false 2023 FY 0000320193 P1Y 67 P1Y 25 P1Y 7 1 http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.org/us-gaa...
+
+2024-12-29 21:48:11,430:INFO:Already downloaded filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm, skipping.
+2024-12-29 21:48:11,612:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm
+2024-12-29 21:48:11,612:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000077_aapl-20230701.htm:
+aapl-20230701 false 2023 Q3 0000320193 --09-30 P1Y 67 P1Y 26 P1Y 6 1 http://fasb.org/us-gaap/2023#MarketableSecuritiesCurrent http://fasb.org/us-gaap/2023#MarketableSecuritiesNoncurrent http://fasb.or...
+
+2024-12-29 21:48:11,814:INFO:Already downloaded filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm, skipping.
+2024-12-29 21:48:12,075:INFO:Extracted 11 chunks from filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm
+2024-12-29 21:48:12,075:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000064_aapl-20230401.htm:
+aapl-20230401 false 2023 Q2 0000320193 --09-30 P1Y 65 P1Y 26 P1Y 7 2 0000320193 2022-09-25 2023-04-01 0000320193 us-gaap:CommonStockMember 2022-09-25 2023-04-01 0000320193 aapl:A1.375NotesDue2024Membe...
+
+2024-12-29 21:48:12,278:INFO:Already downloaded filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm, skipping.
+2024-12-29 21:48:12,456:INFO:Extracted 10 chunks from filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm
+2024-12-29 21:48:12,456:INFO:First chunk preview for filings\0000320193\0000320193_0000320193-23-000006_aapl-20221231.htm:
+aapl-20221231 false 2023 Q1 0000320193 --09-30 P1Y 63 P1Y 27 P1Y 8 2 0000320193 2022-09-25 2022-12-31 0000320193 us-gaap:CommonStockMember 2022-09-25 2022-12-31 0000320193 aapl:A1.375NotesDue2024Membe...
+
